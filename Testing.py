@@ -1,2 +1,2 @@
-def init():
-    print("hello")
+print("hello")
+print("hi")
